@@ -1,0 +1,124 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "VR Racing Pro",
+      "category": "Racing",
+      "price": 25,
+      "duration": "30 min",
+      "players": "1-4",
+      "description": "Experience high-speed racing in immersive VR with realistic physics and stunning tracks.",
+      "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400",
+      "rating": 4.8,
+      "ageLimit": "12+"
+    },
+    {
+      "id": 2,
+      "title": "Laser Tag Arena",
+      "category": "Action",
+      "price": 20,
+      "duration": "45 min",
+      "players": "4-16",
+      "description": "Team-based tactical combat in our neon-lit multi-level arena with advanced scoring system.",
+      "image": "https://images.unsplash.com/photo-1569336415962-a4bd9f69cd83?w=400",
+      "rating": 4.9,
+      "ageLimit": "10+"
+    },
+    {
+      "id": 3,
+      "title": "Escape Room Mystery",
+      "category": "Puzzle",
+      "price": 30,
+      "duration": "60 min",
+      "players": "2-6",
+      "description": "Solve intricate puzzles and uncover secrets in our themed escape room experiences.",
+      "image": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=400",
+      "rating": 4.7,
+      "ageLimit": "14+"
+    },
+    {
+      "id": 4,
+      "title": "Flight Simulator X",
+      "category": "Simulation",
+      "price": 35,
+      "duration": "45 min",
+      "players": "1-2",
+      "description": "Pilot commercial aircraft with professional-grade flight controls and realistic scenarios.",
+      "image": "https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?w=400",
+      "rating": 4.6,
+      "ageLimit": "12+"
+    },
+    {
+      "id": 5,
+      "title": "Bowling Cosmic",
+      "category": "Sports",
+      "price": 15,
+      "duration": "60 min",
+      "players": "1-6",
+      "description": "Classic bowling with a twist - UV lights, music, and cosmic atmosphere.",
+      "image": "https://images.unsplash.com/photo-1545056453-f0359c3df6db?w=400",
+      "rating": 4.5,
+      "ageLimit": "All"
+    },
+    {
+      "id": 6,
+      "title": "Arcade Classics",
+      "category": "Arcade",
+      "price": 10,
+      "duration": "30 min",
+      "players": "1-2",
+      "description": "Retro and modern arcade games with high score competitions and prizes.",
+      "image": "https://images.unsplash.com/photo-1511374933758-06c35356eb0f?w=400",
+      "rating": 4.4,
+      "ageLimit": "8+"
+    },
+    {
+      "id": 7,
+      "title": "Dance Revolution",
+      "category": "Music",
+      "price": 12,
+      "duration": "20 min",
+      "players": "1-4",
+      "description": "Hit the dance floor with rhythm-based gameplay and competitive modes.",
+      "image": "https://images.unsplash.com/photo-1504270997636-07ddfbd48945?w=400",
+      "rating": 4.3,
+      "ageLimit": "All"
+    },
+    {
+      "id": 8,
+      "title": "Mini Golf Galaxy",
+      "category": "Sports",
+      "price": 18,
+      "duration": "45 min",
+      "players": "2-8",
+      "description": "18-hole indoor mini golf course with space theme and interactive obstacles.",
+      "image": "https://images.unsplash.com/photo-1593111774240-d529f12dfd40?w=400",
+      "rating": 4.6,
+      "ageLimit": "All"
+    },
+    {
+      "id": 9,
+      "title": "Zombie Survival VR",
+      "category": "Horror",
+      "price": 28,
+      "duration": "30 min",
+      "players": "1-4",
+      "description": "Team up to survive waves of zombies in this intense VR experience.",
+      "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400",
+      "rating": 4.7,
+      "ageLimit": "16+"
+    },
+    {
+      "id": 10,
+      "title": "Karaoke Lounge",
+      "category": "Music",
+      "price": 22,
+      "duration": "60 min",
+      "players": "2-12",
+      "description": "Private karaoke rooms with thousands of songs and professional sound system.",
+      "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=400",
+      "rating": 4.5,
+      "ageLimit": "All"
+    }
+  ]
+}
